@@ -1,0 +1,244 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+hash = "6b63ba0fc8b3abe866b998a371a1b5993cf9d756336ac0139cd19ba6973a71a6"
+
+[[files]]
+file = "config/badoptimizations.txt"
+hash = "cae5ba66971b2f61e0b523c5aeb8b8d4fa806f0bea8a1709860e4fea94426ac9"
+
+[[files]]
+file = "config/c2me.toml"
+hash = "53a4577075db5bd41171fc9bd106f67274662c8b3bb5c0c73ca84a53839a0ae9"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "cce3eab1a290cc1f0eada00031f0577f661f883aee3438cf1139283c65d1f319"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "36216a05f3ed63106ba587c8c24ed6315385829e7f3dae695dcf545aba41a270"
+
+[[files]]
+file = "config/dynamic_fps.json"
+hash = "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "e92e6772c4b6ec28b9c179c80831d56d11fc65064591424a120133d397b2ab49"
+
+[[files]]
+file = "config/ferritecore-mixin.toml"
+hash = "1356f9d52b2dcb2afa5a593e53c286d9c1c3778a6f8b1cf761953b185b7dce78"
+
+[[files]]
+file = "config/flywheel-client-1.toml.bak"
+hash = "4ae4bcb313f7215d1466a36e008e0f20805c98e1aa5b46b154a81dbfdb098e9d"
+
+[[files]]
+file = "config/flywheel-client.toml"
+hash = "49414280350d38397bb99dc9f721e07e8d3d17920094455f08ae10079d460d9a"
+
+[[files]]
+file = "config/fml.toml"
+hash = "46881581e4da48c37085f96f9c7289d86cb34e57aee5ca360ba93359708d2419"
+
+[[files]]
+file = "config/hats.toml"
+hash = "a71fae73814ed26a71a83ada684aaae9f79edb5df4c204062b7a214aa7471ed2"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
+
+[[files]]
+file = "config/iris-excluded.json"
+hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
+
+[[files]]
+file = "config/iris.properties"
+hash = "e377c1217974b08efb343bbbf52c3a0c072a8e170cc00d85bb4559d2f1251ca2"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "6cf6f83720071fd1657c8e79b357caf68d40f410ae123e5f922483eb1d1d25be"
+
+[[files]]
+file = "config/moreculling.toml"
+hash = "2c860c4a176a73de52845bb3062f909280072902595828c0ae7b2481d090772d"
+
+[[files]]
+file = "config/neoforge-client-1.toml.bak"
+hash = "1f69c6a59370dc2ffeaeb140228778afed47f7c569009c48542e69dd27d77060"
+
+[[files]]
+file = "config/neoforge-client.toml"
+hash = "4f2325d7bd88de72018155bae689bdda36a4f109d464c91e81fe29aaa4e7b107"
+
+[[files]]
+file = "config/neoforge-common-1.toml.bak"
+hash = "caa885bd719c4fec0314b1da87c2a82b7ad18fb96a490a3e58338c6b499617b9"
+
+[[files]]
+file = "config/neoforge-common.toml"
+hash = "86c067add57f9449a6bde85dda63286ce8d613163bd99abb5c3d6833f88cfa42"
+
+[[files]]
+file = "config/neoforge-server.toml"
+hash = "581d7b0b184d7ae435525131cc402f27d823ef2d93e46f0a8fa5a6fbdea1c439"
+
+[[files]]
+file = "config/patchouli-client.toml"
+hash = "d9a6d7cadb6d473cf087602d9866840d2bb7f2c16915267eb3f6fbf68d5d774d"
+
+[[files]]
+file = "config/ponder-client.toml"
+hash = "55affffe67e84dfe11e590769e235aee999b77f9484a3adf7ee8247a9f3d35ba"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "6b1fb521f667fe49708187d0c24c16a67e8b7ce3286de6b70463e0a156f94d0f"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "44478bef0973f1aa587c0493568a5cbc5426233b611f14bd2be489b5b862fa7f"
+
+[[files]]
+file = "config/titanium/titanium-tags.toml"
+hash = "0fdb903beac3111899fba270f156d65daf792b534a20915672e2d9b1aacdf06c"
+
+[[files]]
+file = "config/titanium/titanium.toml"
+hash = "419a23e2c00bb42a68c4285244a50d92bd63d1d16a6e08cc61ef4531fd958579"
+
+[[files]]
+file = "config/transition.json"
+hash = "60420a41571a4658b91babfa2b47d6fefb7c1766eeea969f51ff98ab34c2431c"
+
+[[files]]
+file = "config/trender.json"
+hash = "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "55e3bbb3e105edb82c65e8556121ded13e0a25f9768c779fc0ab358680cdb402"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "fd13b981b896ffdd550591751badfbe8b0f6dee0b1fd8a35d00251c23d9ad919"
+metafile = true
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "fad6b511216c979462c5a31ee7c3c08b3013e5062715ec36d2e217f2bc564132"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "c637c5ba5f3aa26f9c07db6bf099543b7d9a5871cd190bd448308402b259b2ac"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "63246c9473f587a6c4d20de0ba09dd495613e3041ac24249e3ba9e95462d9707"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "d54c45b486976c4c6ffb74197f2f1f8d37130ab4208db229969b6397517e40e7"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "43a0b922344666994823b96baf43d3cda30e584a16dcf607e89b9b8b5648ff70"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "aa9540ed4128b312a8116643d01d7fb1941473d63491cf11c96f508f4ae1b03b"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "046e7a431340b387dcf11a380a4543bbb18710fe628ad824abe22d40ab50b79e"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "aac5323a1b196a0803573add6a6a90979044a63fbcea282c5497c79dbe7248ae"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "d4699836c7d65541ad60d61fd90777796b85b2fe046a7673357b6a8ff14e7cb9"
+metafile = true
+
+[[files]]
+file = "mods/hats-renewed.pw.toml"
+hash = "5c98f3e43347a81646b08b04766eae6aca68d183f207ee338f778d2ddd4e70d5"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "defb2eb8b47f7e6801798a3002c72dccbf6b5734e258dbbcf669b249266ec9ea"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "0220ef950f1daaddcae8e8904a0acaac6b091a2fd05258bd7827eadda8741807"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "3bf070e74f49ac866f37f0d242d5ebcd2bea6f8cfe50edaafb0f488fa4cea3cb"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "639a20cc05d1123c0127aaf1509e07d59650a64c92b8419c84be4442725c3d8b"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "d78de81e44a119bf740afa0bb706635c1dffe690a632c7349e2d2697a5566e9c"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "3205bd94cab821a70ccd07d9cc2b13df031ef41f4d6e2baa530433faa260d5cb"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "df2db3e6aeeab43081106955aee0e7fc8a65a6e01dab91cd459054da97dc7d48"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "3e1816ac4fb6126e9960f34e0300fbc9b78a163c1e536eb74f0b04f1604a25bd"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "a8272ebe2fee6a9b3e7df035fb2122eab1da37fc304ffffb43b6c9a783f5119f"
+metafile = true
+
+[[files]]
+file = "mods/sushigocrafting.pw.toml"
+hash = "add4e36bf28612741bab15cd3c53e5629b2a9cb862cbf3a01e80c5a9df48b329"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "4e474ae39ed6d2e4dbc086ba2978ba5e5ac64d14811adbd01159df0295f1195e"
+metafile = true

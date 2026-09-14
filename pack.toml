@@ -1,0 +1,13 @@
+name = "Pion"
+author = "Dani"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "fa92a43fb9f357d98909b086549954b34ac4b7aea134f7b815aec46a757034b3"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.250"
