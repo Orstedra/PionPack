@@ -5,3 +5,4 @@
 *.jar binary
 *.mrpack binary
 *.png binary
+*.bat text eol=crlf
