@@ -1,7 +1,0 @@
-.packignore
-packwiz-installer-bootstrap.jar
-packwiz-installer.jar
-packwiz.json
-*.bak
-config/iris.properties
-config/iris-excluded.json
