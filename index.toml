@@ -14,7 +14,7 @@ hash = "f0832d920952c122fd6b64668d1dce6a14f4193982a41697c5c2f65a7fd3962c"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "ef04ce506874a120a4bc968fde1e4eadc63e8a7c7aed8ec87d66d1fa52d04f26"
+hash = "65b5216f1ab837841d357eaeebb34ff59b5b6278454516cdecca4af0605fbaca"
 
 [[files]]
 file = "config/create-client.toml"
