@@ -1,0 +1,66 @@
+# Carry On Common Configuration
+
+[settings]
+	maxDistance = 2.5
+	scaleDistance = false
+	maxEntityWidth = 1.5
+	maxEntityHeight = 2.5
+	relativePlayerScale = false
+	blockSlownessMultiplier = 0.0
+	entitySlownessMultiplier = 0.0
+	maxEntityStackLimit = 10
+	heavyTiles = false
+	pickupAllBlocks = false
+	slownessInCreative = false
+	pickupHostileMobs = false
+	heavyEntities = false
+	allowBabies = false
+	useWhitelistBlocks = true
+	useWhitelistEntities = true
+	useWhitelistStacking = false
+	hitWhileCarrying = false
+	dropCarriedWhenHit = false
+	useScripts = false
+	stackableEntities = true
+	entitySizeMattersStacking = true
+	placementStateExceptions = ["minecraft:chest[type]", "minecraft:stone_button[face]", "minecraft:vine[north,east,south,west,up]", "minecraft:creeper_head[rotation]", "minecraft:glow_lichen[north,east,south,west,up,down]", "minecraft:oak_sign[rotation]", "minecraft:oak_trapdoor[half]"]
+	pickupPlayers = false
+	pickupUnbreakableBlocks = false
+
+[whitelist]
+	allowedBlocks = [
+		"minecraft:chest",
+		"minecraft:trapped_chest",
+		"minecraft:barrel",
+		"minecraft:ender_chest",
+		"#c:chests",
+		"#c:chests/wooden",
+		"#c:chests/trapped",
+		"*chest*"
+	]
+	allowedEntities = [
+		"minecraft:wolf",
+		"minecraft:cat",
+		"minecraft:parrot",
+		"minecraft:horse",
+		"minecraft:donkey",
+		"minecraft:mule",
+		"minecraft:llama",
+		"minecraft:trader_llama",
+		"minecraft:axolotl",
+		"minecraft:ocelot",
+		"minecraft:rabbit",
+		"minecraft:camel",
+		"#minecraft:c:pets",
+		"#c:pets"
+	]
+	allowedStacking = []
+
+[blacklist]
+	forbiddenTiles = []
+	forbiddenEntities = []
+	forbiddenStacking = []
+
+[customPickupConditions]
+	customPickupConditionsBlocks = []
+	customPickupConditionsEntities = []

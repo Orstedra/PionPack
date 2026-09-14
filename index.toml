@@ -13,6 +13,10 @@ file = "config/c2me.toml"
 hash = "f0832d920952c122fd6b64668d1dce6a14f4193982a41697c5c2f65a7fd3962c"
 
 [[files]]
+file = "config/carryon-common.toml"
+hash = "a0d9613d73bab53cedfd62ceedc25df9cf0c9de618a0448a5a3bcae188217396"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "16774bad3d5684a5ecfb6e9e9a8ca5c158fbc8bb3c97568af830be925e6d3d2a"
 
