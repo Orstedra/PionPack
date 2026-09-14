@@ -51,7 +51,6 @@
 		"minecraft:ocelot",
 		"minecraft:rabbit",
 		"minecraft:camel",
-		"#minecraft:c:pets",
 		"#c:pets"
 	]
 	allowedStacking = []
