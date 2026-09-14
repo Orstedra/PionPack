@@ -1,0 +1,7 @@
+update.bat
+*.bat
+*.mrpack
+.packwizignore
+.gitattributes
+.gitignore
+.packignore
