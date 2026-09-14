@@ -1,6 +1,6 @@
 filename = 'BadOptimizations-2.4.1-1.21.1.jar'
 name = 'BadOptimizations'
-side = ''
+side = 'client'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

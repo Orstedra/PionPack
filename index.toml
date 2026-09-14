@@ -135,12 +135,12 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "fd13b981b896ffdd550591751badfbe8b0f6dee0b1fd8a35d00251c23d9ad919"
+hash = "4f7bb074194e78cca5dc67ff4ed5702bac6c643bf68e95b7449f6f8c069d81a5"
 metafile = true
 
 [[files]]
 file = "mods/c2me-neoforge.pw.toml"
-hash = "fad6b511216c979462c5a31ee7c3c08b3013e5062715ec36d2e217f2bc564132"
+hash = "c1445860b2aacc9a63c237214b6f7ce6ed4111197caa149721194daac880d55f"
 metafile = true
 
 [[files]]
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "63246c9473f587a6c4d20de0ba09dd495613e3041ac24249e3ba9e95462d9707"
+hash = "9da884e40dd18d988e4f5d4fd21871ba5dfb9c1a4f51c6c5b00f5091885c430d"
 metafile = true
 
 [[files]]
@@ -160,12 +160,12 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "43a0b922344666994823b96baf43d3cda30e584a16dcf607e89b9b8b5648ff70"
+hash = "dfc2c9f40112ef7cae0be81cfc39053e2bce8972b8ae78afba0b28a6ad7a47ec"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "aa9540ed4128b312a8116643d01d7fb1941473d63491cf11c96f508f4ae1b03b"
+hash = "6225aa5cc729a6e69216f62b778a070049d597895eb6c81d8bc7c3abdfb7db38"
 metafile = true
 
 [[files]]
@@ -175,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "aac5323a1b196a0803573add6a6a90979044a63fbcea282c5497c79dbe7248ae"
+hash = "34a5fd699a8d41a511a2708c326e60a68a2881cafa2a81c343c787a97c685443"
 metafile = true
 
 [[files]]
@@ -190,22 +190,22 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "defb2eb8b47f7e6801798a3002c72dccbf6b5734e258dbbcf669b249266ec9ea"
+hash = "22d177211c0d280a020f0be45b64fa8c2f8bb6d6bb14326ba5f44c5e2f619f61"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "0220ef950f1daaddcae8e8904a0acaac6b091a2fd05258bd7827eadda8741807"
+hash = "724aa7325cd410f90d6f671aff2ec1bba6d69719c358617bab3a769406e8848a"
 metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "3bf070e74f49ac866f37f0d242d5ebcd2bea6f8cfe50edaafb0f488fa4cea3cb"
+hash = "ac0986c20317dc2507b6aace94cb053e9d99c64dcba6f30349b92a67adbecb3a"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "639a20cc05d1123c0127aaf1509e07d59650a64c92b8419c84be4442725c3d8b"
+hash = "7f4e7341619b8c53c455b862fcafd6cea065ca6655a93eb643f7eb2c05dfdb29"
 metafile = true
 
 [[files]]
@@ -220,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "df2db3e6aeeab43081106955aee0e7fc8a65a6e01dab91cd459054da97dc7d48"
+hash = "0b98c8054d9f3264e358d9899eb4a89cc6a98bd5e65838a0577e88f8cd0357af"
 metafile = true
 
 [[files]]
@@ -242,3 +242,7 @@ metafile = true
 file = "mods/titanium.pw.toml"
 hash = "4e474ae39ed6d2e4dbc086ba2978ba5e5ac64d14811adbd01159df0295f1195e"
 metafile = true
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
