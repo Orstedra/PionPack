@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".packignore"
-hash = "5444e350298c9a7172bca1e86ace012aed7b1df693b4c77fdfeb79c60fe120eb"
+hash = "605814f40818b24feb73eaf7ac0664ab01adc6016a9d321bc3cff7ddbdeaa374"
 
 [[files]]
 file = "config/DistantHorizons.toml"
@@ -41,10 +41,6 @@ file = "config/ferritecore-mixin.toml"
 hash = "b6c85cb392f799ed932ffe8d6051f48a283a0df3f8674acf4f8d89341836e686"
 
 [[files]]
-file = "config/flywheel-client-1.toml.bak"
-hash = "4ae4bcb313f7215d1466a36e008e0f20805c98e1aa5b46b154a81dbfdb098e9d"
-
-[[files]]
 file = "config/flywheel-client.toml"
 hash = "cf802bcdb805f78b2254eca13ab89f0d36a2404124eeb4e743019f011c981807"
 
@@ -77,16 +73,8 @@ file = "config/moreculling.toml"
 hash = "2c860c4a176a73de52845bb3062f909280072902595828c0ae7b2481d090772d"
 
 [[files]]
-file = "config/neoforge-client-1.toml.bak"
-hash = "1f69c6a59370dc2ffeaeb140228778afed47f7c569009c48542e69dd27d77060"
-
-[[files]]
 file = "config/neoforge-client.toml"
 hash = "2a628d6183f5a7438e4e2edd2628bc879ffca6cabd97c9a18a314d8f079c8f1d"
-
-[[files]]
-file = "config/neoforge-common-1.toml.bak"
-hash = "caa885bd719c4fec0314b1da87c2a82b7ad18fb96a490a3e58338c6b499617b9"
 
 [[files]]
 file = "config/neoforge-common.toml"

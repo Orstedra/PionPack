@@ -4,3 +4,4 @@ packwiz.json
 *.log
 *.disabled
 .packignore
+*.bak
