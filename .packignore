@@ -1,0 +1,6 @@
+packwiz-installer-bootstrap.jar
+packwiz-installer.jar
+packwiz.json
+*.log
+*.disabled
+.packignore

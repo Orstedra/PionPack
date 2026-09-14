@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".packignore"
+hash = "5444e350298c9a7172bca1e86ace012aed7b1df693b4c77fdfeb79c60fe120eb"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "eba170ace72c2ad0c9b14a844555b9e94f71a8e5ecadca4d12fd5e273029059b"
 

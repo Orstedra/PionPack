@@ -1,0 +1,7 @@
+* text=auto eol=lf
+*.toml text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+*.jar binary
+*.mrpack binary
+*.png binary
