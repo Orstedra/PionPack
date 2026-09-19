@@ -123,6 +123,11 @@ hash = "90cc2f8a2589a157a7943476aa238446b6e32255a6d0da313b81bef8d6246249"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "7dba9a4a9894a6bbab3a8c7edcc718499297412247fc0e8ccebf75b760c85140"
+metafile = true
+
+[[files]]
 file = "mods/c2me-neoforge.pw.toml"
 hash = "f1bad8ba9ea067c625b2b406ccacd7d409ba634894bc3a9dd9b2ac21013fdc05"
 metafile = true
@@ -140,6 +145,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "d54c45b486976c4c6ffb74197f2f1f8d37130ab4208db229969b6397517e40e7"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
 
 [[files]]
@@ -178,6 +188,11 @@ hash = "d67acaebfdb4a1b19db01ae3bf6cbd251eeb417cf4dc62dba5075eae20eb2aeb"
 metafile = true
 
 [[files]]
+file = "mods/inventory-essentials.pw.toml"
+hash = "8ed1d89bfcb006c0f65f6cb7da568edae3a673cd95ce29df62d26144cb5ee83d"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "4449d8293593e97a4ade24157f97e4b531aa259da9fb4d899e47ecc38387b845"
 metafile = true
@@ -190,6 +205,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "bcb9234f506d0199644c156cb5fdb43645bec6f3f93570799a1068f2985a16fc"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
