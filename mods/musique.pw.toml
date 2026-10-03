@@ -1,14 +1,14 @@
-filename = 'musique-0.1.0.jar'
+filename = 'musique-0.2.0.jar'
 name = 'Musique'
 side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '0.1.0'
+x-prismlauncher-version-number = '0.2.0'
 
 [download]
-hash = '33f63a944f0674cf6fc981b5dfbcadbc37432a72672d65a91f32aa9af2434b02fceb682e155282b2c7863ec8c2a25a213362da532356cd97c609a996cc0b3226'
+hash = '30d1ecd66825261118832f229c77aa2fe69611953edd0e42ca6a37b67d587481d3da4a219f7e686c9b90043e9f127b5a0c9862caa45ade34d63544a86f20737f'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://github.com/DanielAragoneses/Musique/releases/download/v0.1.0/musique-0.1.0.jar'
+url = 'https://github.com/DanielAragoneses/Musique/releases/download/v0.2.0/musique-0.2.0.jar'
