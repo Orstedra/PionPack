@@ -5,3 +5,4 @@ update.bat
 .gitattributes
 .gitignore
 .packignore
+packages/
